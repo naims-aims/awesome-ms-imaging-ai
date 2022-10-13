@@ -22,7 +22,7 @@ This list will gather together tools, resources, literature in the world of MS I
 ## Contents
 
 - [Tools](#tools)
-- [Follow](#fo;low)
+- [Follow](#follow)
 
 <!-- CONTENT -->
 
