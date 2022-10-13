@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome MS Imaging & AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/naims-aims/awesome-ms-imaging-ai/actions/workflows/lint.yaml/badge.svg)](https://github.com/naims-aims/awesome-ms-imaging-ai/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+This list will gather together tools, resources, literature in the world of MS Imaging and Artificial Intelligence.
 
 <!-- image -->
 
@@ -18,29 +18,20 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Tools](#tools)
+- [Follow](#fo;low)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Tools
 
 - [Apple](https://apple.com) - Apple as a placeholder.
-
-## Section 1
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
 
