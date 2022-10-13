@@ -29,6 +29,9 @@ This list will gather together tools, resources, literature in the world of MS I
 ## Tools
 
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) - FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data.
+- [PyTorch](https://pytorch.org/) - PyTorch is one of the most popular deep learning frameworks.
+- [MONAI](https://monai.io/) - MONAI is a set of medical imaging specific frameworks built on top of PyTorch
+
 
 <!-- END CONTENT -->
 
