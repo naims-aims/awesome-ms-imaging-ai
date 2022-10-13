@@ -28,7 +28,7 @@ This list will gather together tools, resources, literature in the world of MS I
 
 ## Tools
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) - FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data.
 
 <!-- END CONTENT -->
 
