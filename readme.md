@@ -12,9 +12,6 @@ This list will gather together tools, resources, literature in the world of MS I
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
 
 <!-- description -->
 
